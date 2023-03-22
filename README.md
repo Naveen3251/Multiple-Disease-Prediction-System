@@ -7,3 +7,6 @@
 # Heart Disease Prediction Web Page
 ![Web capture_22-3-2023_215224_localhost](https://user-images.githubusercontent.com/114800360/226980924-76f1af59-cf18-4962-8c58-9edb8fd0a80d.jpeg)
 ![Web capture_22-3-2023_215245_localhost](https://user-images.githubusercontent.com/114800360/226981014-e20159d9-76a7-422b-8d4f-00bd35482135.jpeg)
+# Parkinson Disease Prediction Web Page
+![Web capture_22-3-2023_21736_localhost](https://user-images.githubusercontent.com/114800360/226981245-f96873d3-be79-4c0b-8dc1-2dda14b2c10a.jpeg)
+![Web capture_22-3-2023_21576_localhost](https://user-images.githubusercontent.com/114800360/226981327-5a817fc0-7d42-4b37-ae5d-69dd5521630e.jpeg)
